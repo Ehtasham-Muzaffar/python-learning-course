@@ -1,0 +1,13 @@
+# Core course environment; tested with Python 3.11.
+numpy==2.5.4
+pandas==3.0.6
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+streamlit==1.65.0
+plotly==7.1.0
+joblib==1.6.0
+fastapi==0.143.0
+uvicorn==0.54.0
+pytest==9.1.1
+ruff==0.17.0

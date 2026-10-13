@@ -1,0 +1,4 @@
+# Optional scientific stack for 10-data-libraries/lesson.py.
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.17.1

@@ -1,0 +1,3 @@
+# Optional database drivers for the MySQL and MongoDB lessons.
+mysql-connector-python==9.5.0
+pymongo==4.16.0
